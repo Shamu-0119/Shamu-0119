@@ -9,6 +9,6 @@
 
 
 🛠️ <strong>Tools & Technologies</strong><br>
-➡️ 💻 Frontend:- <strong>HTML, CSS, JavaScript, WordPress (CMS)</strong><br>
+➡️ 💻 Frontend:- <strong>HTML, CSS, JavaScript,Bootstrap, WordPress (CMS)</strong><br>
 ➡️ 🔧 Backend:- <strong>Core Java, JDBC, JEE</strong><br>
 ➡️ 🗄️ Databases:- <strong>MySQL</strong><br>
