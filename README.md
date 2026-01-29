@@ -1,5 +1,5 @@
-👋 Hi, I’m Shamu Gollapudi
-Associate Software Engineer
+👋 Hi, I’m Shamu Gollapudi<br>
+🌐 Associate Software Engineer
 
 🚀 <strong>About Me</strong>
 
@@ -9,7 +9,7 @@ Associate Software Engineer
 
 ➡️ I’m deeply passionate about the technology field and enjoy learning how things work under the hood. I actively upskill myself, practice problem-solving, and build projects to grow as a well-rounded software engineer.
 
-🛠️ <strong>Tools & Technologies</strong>
+🛠️ <strong>Tools & Technologies</strong><br>
 ➡️ 💻 Frontend:- <strong>HTML, CSS, JavaScript, WordPress (CMS)</strong>  
 ➡️ 🔧 Backend:- <strong>Core Java, JDBC, JEE</strong>  
 ➡️ 🗄️ Databases:- <strong>MySQL</strong>
